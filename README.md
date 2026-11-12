@@ -77,7 +77,7 @@ Memory with the same 6 sites open, 2026-11-09, read as resident memory of every 
 
 ## Open source
 
-The source code is open under GPL-3.0, with commercial licenses for closed-source use. Source code: github.com/Levivajan/rio (coming soon). Commercial licenses: rio@riobrowser.app.
+The source code is open under GPL-3.0 at [github.com/Levivajan/rio](https://github.com/Levivajan/rio).
 
 ## Report a problem
 
